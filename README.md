@@ -7,7 +7,7 @@
    MOVE</br></br>
    <img src = "https://github.com/user-attachments/assets/32aa1b88-0797-4462-9e75-1a162d37719b"></br>
 </br>
-INTERACT</br></br>
+OPEN CHEST</br></br>
    <img src = "https://github.com/user-attachments/assets/e749cfbc-07e2-4581-a033-b611fab448d3">
 
 </div>
