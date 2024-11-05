@@ -118,7 +118,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -132,7 +132,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -156,7 +156,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -212,7 +212,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 48
-        width: 17
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -232,9 +232,9 @@ TextureImporter:
       name: Orange_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 32
-        width: 17
+        x: 16
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -254,9 +254,9 @@ TextureImporter:
       name: Orange_2
       rect:
         serializedVersion: 2
-        x: 16
+        x: 32
         y: 48
-        width: 17
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -276,9 +276,9 @@ TextureImporter:
       name: Orange_3
       rect:
         serializedVersion: 2
-        x: 16
-        y: 32
-        width: 17
+        x: 48
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -298,7 +298,7 @@ TextureImporter:
       name: Orange_4
       rect:
         serializedVersion: 2
-        x: 33
+        x: 64
         y: 48
         width: 16
         height: 16
@@ -320,8 +320,8 @@ TextureImporter:
       name: Orange_5
       rect:
         serializedVersion: 2
-        x: 33
-        y: 32
+        x: 80
+        y: 48
         width: 16
         height: 16
       alignment: 0
@@ -342,9 +342,9 @@ TextureImporter:
       name: Orange_6
       rect:
         serializedVersion: 2
-        x: 48
+        x: 96
         y: 48
-        width: 33
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -364,9 +364,9 @@ TextureImporter:
       name: Orange_7
       rect:
         serializedVersion: 2
-        x: 48
-        y: 32
-        width: 33
+        x: 112
+        y: 48
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -386,9 +386,9 @@ TextureImporter:
       name: Orange_8
       rect:
         serializedVersion: 2
-        x: 80
-        y: 48
-        width: 17
+        x: 0
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -408,9 +408,9 @@ TextureImporter:
       name: Orange_9
       rect:
         serializedVersion: 2
-        x: 80
+        x: 16
         y: 32
-        width: 17
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -430,8 +430,8 @@ TextureImporter:
       name: Orange_10
       rect:
         serializedVersion: 2
-        x: 97
-        y: 48
+        x: 32
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -452,7 +452,7 @@ TextureImporter:
       name: Orange_11
       rect:
         serializedVersion: 2
-        x: 97
+        x: 48
         y: 32
         width: 16
         height: 16
@@ -474,8 +474,8 @@ TextureImporter:
       name: Orange_12
       rect:
         serializedVersion: 2
-        x: 112
-        y: 48
+        x: 64
+        y: 32
         width: 16
         height: 16
       alignment: 0
@@ -496,7 +496,7 @@ TextureImporter:
       name: Orange_13
       rect:
         serializedVersion: 2
-        x: 112
+        x: 80
         y: 32
         width: 16
         height: 16
@@ -518,9 +518,9 @@ TextureImporter:
       name: Orange_14
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
-        width: 17
+        x: 96
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -540,9 +540,9 @@ TextureImporter:
       name: Orange_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 17
+        x: 112
+        y: 32
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -562,9 +562,9 @@ TextureImporter:
       name: Orange_16
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 16
-        width: 17
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -585,8 +585,8 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 0
-        width: 17
+        y: 16
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -606,7 +606,7 @@ TextureImporter:
       name: Orange_18
       rect:
         serializedVersion: 2
-        x: 33
+        x: 32
         y: 16
         width: 16
         height: 16
@@ -628,8 +628,8 @@ TextureImporter:
       name: Orange_19
       rect:
         serializedVersion: 2
-        x: 33
-        y: 0
+        x: 48
+        y: 16
         width: 16
         height: 16
       alignment: 0
@@ -650,9 +650,9 @@ TextureImporter:
       name: Orange_20
       rect:
         serializedVersion: 2
-        x: 48
+        x: 64
         y: 16
-        width: 33
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -672,9 +672,9 @@ TextureImporter:
       name: Orange_21
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 33
+        x: 80
+        y: 16
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -694,9 +694,9 @@ TextureImporter:
       name: Orange_22
       rect:
         serializedVersion: 2
-        x: 80
+        x: 96
         y: 16
-        width: 17
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -716,9 +716,9 @@ TextureImporter:
       name: Orange_23
       rect:
         serializedVersion: 2
-        x: 80
-        y: 0
-        width: 17
+        x: 112
+        y: 16
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -738,8 +738,8 @@ TextureImporter:
       name: Orange_24
       rect:
         serializedVersion: 2
-        x: 97
-        y: 16
+        x: 0
+        y: 0
         width: 16
         height: 16
       alignment: 0
@@ -760,7 +760,7 @@ TextureImporter:
       name: Orange_25
       rect:
         serializedVersion: 2
-        x: 97
+        x: 16
         y: 0
         width: 16
         height: 16
@@ -782,8 +782,8 @@ TextureImporter:
       name: Orange_26
       rect:
         serializedVersion: 2
-        x: 112
-        y: 16
+        x: 32
+        y: 0
         width: 16
         height: 16
       alignment: 0
@@ -804,7 +804,7 @@ TextureImporter:
       name: Orange_27
       rect:
         serializedVersion: 2
-        x: 112
+        x: 48
         y: 0
         width: 16
         height: 16
@@ -822,11 +822,99 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Orange_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51df0e6736cf20b419d03b154f3076e2
+      internalID: 1733494635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4cb23b5ff56980498fdd4a72a50b70e
+      internalID: 1953896306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2408176d4e5dc47a005a60de8632b6
+      internalID: 745756583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orange_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef053511267c061448594fb6f40a9c27
+      internalID: -401832641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 472519b154639db41b01a4b158722d2c
     internalID: 0
     vertices: []
     indices: 
@@ -835,7 +923,39 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Orange_0: 4121880872312635667
+      Orange_1: 2344270669467322306
+      Orange_10: 3515071814446350068
+      Orange_11: -7989559414504384385
+      Orange_12: -5807639670500276790
+      Orange_13: 6847284126642719973
+      Orange_14: -7248848098583867319
+      Orange_15: 4913402539735777752
+      Orange_16: -3526668604636205124
+      Orange_17: 559496575683597263
+      Orange_18: 1059023173507091762
+      Orange_19: 2133748405840239767
+      Orange_2: 4308106298786891140
+      Orange_20: 4707852044336200978
+      Orange_21: -1019294444972620163
+      Orange_22: 1825301175938728563
+      Orange_23: 1317567594264175679
+      Orange_24: -1928797710523927202
+      Orange_25: 4755778209704672553
+      Orange_26: -8617392274808520957
+      Orange_27: -4456160682499012445
+      Orange_28: 1733494635
+      Orange_29: 1953896306
+      Orange_3: 7874291611447793305
+      Orange_30: 745756583
+      Orange_31: -401832641
+      Orange_4: 3285381865569172166
+      Orange_5: 7043855894265817204
+      Orange_6: 3988426822137034836
+      Orange_7: -2229105888306426895
+      Orange_8: 6008893271325792001
+      Orange_9: -7876212812653781381
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

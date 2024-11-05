@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,7 +96,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -120,7 +120,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -174,10 +174,10 @@ TextureImporter:
       name: SeaAngler_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 36
-        width: 31
-        height: 25
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,10 +196,10 @@ TextureImporter:
       name: SeaAngler_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 36
-        width: 30
-        height: 24
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -218,10 +218,10 @@ TextureImporter:
       name: SeaAngler_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 36
-        width: 28
-        height: 24
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -240,10 +240,10 @@ TextureImporter:
       name: SeaAngler_3
       rect:
         serializedVersion: 2
-        x: 99
-        y: 36
-        width: 30
-        height: 24
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -262,10 +262,10 @@ TextureImporter:
       name: SeaAngler_4
       rect:
         serializedVersion: 2
-        x: 129
-        y: 36
-        width: 30
-        height: 26
+        x: 128
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -284,10 +284,10 @@ TextureImporter:
       name: SeaAngler_5
       rect:
         serializedVersion: 2
-        x: 163
-        y: 36
-        width: 30
-        height: 24
+        x: 160
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -306,10 +306,10 @@ TextureImporter:
       name: SeaAngler_6
       rect:
         serializedVersion: 2
-        x: 197
-        y: 36
-        width: 27
-        height: 25
+        x: 192
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,10 +328,10 @@ TextureImporter:
       name: SeaAngler_7
       rect:
         serializedVersion: 2
-        x: 227
-        y: 36
-        width: 29
-        height: 25
+        x: 224
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -350,10 +350,10 @@ TextureImporter:
       name: SeaAngler_8
       rect:
         serializedVersion: 2
-        x: 1
-        y: 4
-        width: 31
-        height: 25
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -372,10 +372,10 @@ TextureImporter:
       name: SeaAngler_9
       rect:
         serializedVersion: 2
-        x: 35
-        y: 4
-        width: 30
-        height: 24
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,10 +394,10 @@ TextureImporter:
       name: SeaAngler_10
       rect:
         serializedVersion: 2
-        x: 69
-        y: 4
-        width: 28
-        height: 24
+        x: 64
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -416,10 +416,10 @@ TextureImporter:
       name: SeaAngler_11
       rect:
         serializedVersion: 2
-        x: 99
-        y: 4
-        width: 30
-        height: 24
+        x: 96
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -438,10 +438,10 @@ TextureImporter:
       name: SeaAngler_12
       rect:
         serializedVersion: 2
-        x: 129
-        y: 4
-        width: 30
-        height: 26
+        x: 128
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -460,10 +460,10 @@ TextureImporter:
       name: SeaAngler_13
       rect:
         serializedVersion: 2
-        x: 163
-        y: 4
-        width: 30
-        height: 24
+        x: 160
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -482,10 +482,10 @@ TextureImporter:
       name: SeaAngler_14
       rect:
         serializedVersion: 2
-        x: 197
-        y: 4
-        width: 27
-        height: 25
+        x: 192
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -504,10 +504,10 @@ TextureImporter:
       name: SeaAngler_15
       rect:
         serializedVersion: 2
-        x: 227
-        y: 4
-        width: 29
-        height: 25
+        x: 224
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -526,7 +526,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: ec1f0e040a1f5b04289b1287a7518ac1
     internalID: 0
     vertices: []
     indices: 
@@ -535,7 +535,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SeaAngler_0: 5091765404666785428
+      SeaAngler_1: 6769495452254041382
+      SeaAngler_10: 2263545429197170015
+      SeaAngler_11: -1700908890843879165
+      SeaAngler_12: -1141792347992433844
+      SeaAngler_13: -5052719936272491569
+      SeaAngler_14: -7049578636091886043
+      SeaAngler_15: -2681938056999166155
+      SeaAngler_2: -8929446876373564120
+      SeaAngler_3: 1097985555440933272
+      SeaAngler_4: 6515633977741975426
+      SeaAngler_5: 7022967251488661085
+      SeaAngler_6: -4485214326061836912
+      SeaAngler_7: -1189966998106881396
+      SeaAngler_8: 7334810715767724800
+      SeaAngler_9: 3094665994503832922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
