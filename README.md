@@ -1,6 +1,7 @@
 <div align=center>
 <h1>HUNGRY NEMO</h1>
-  ![Demo](https://github.com/hw0608/HungryNemo/blob/main/src/Demo.gif) </br></br>
+   ![Demo](https://github.com/user-attachments/assets/2b81c954-edd8-4789-ad67-bd99922702fa)
+</br></br>
   먹성 좋은 물고기 니모를 조종하여 바다의 왕이 되어보세요! </br>
 </br>
   CONTROLS</br>
